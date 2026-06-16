@@ -19,3 +19,17 @@ body {
     padding-top: 15px;
     background-color: blueviolet;
 }
+
+.titulo {
+    text-align: center;
+    color:aliceblue;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: nome;
+    color:azure;
+}
