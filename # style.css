@@ -12,7 +12,7 @@ body {
 .capa {
     width: 100%;
     object-fit: cover;
-    height: 400px; /*mudar*/
+    height: 150px; /*mudar*/
 }
 
 .infoHeader{
